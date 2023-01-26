@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var immortality = "wdb.ci61.com/";
+	var immortality = "github.ci61.com/yonghui/";
 	$("#wd").click(function(){
         window.open("https://" + immortality + "wd");
     });
